@@ -1,0 +1,3 @@
+Zadání úkolu èíslo 1:
+	Do složky Ukol_1, kde je toto zadání, vložte poznámkocý blok, s vaším jménem a 
+	dovnitø napište nìjakou pøipomínku nebo cokoli chcete.
