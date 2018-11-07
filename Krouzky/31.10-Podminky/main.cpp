@@ -56,4 +56,3 @@ void loop(){
     else
         digitalWrite(ledR, LOW);*/         // pokud neni sepnuto, tak vypne ledku
 }
-  
